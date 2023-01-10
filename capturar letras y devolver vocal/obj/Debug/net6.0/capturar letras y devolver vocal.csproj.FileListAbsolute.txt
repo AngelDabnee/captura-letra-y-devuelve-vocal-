@@ -1,0 +1,15 @@
+C:\Users\master\source\repos\capturar letras y devolver vocal\capturar letras y devolver vocal\bin\Debug\net6.0\capturar letras y devolver vocal.exe
+C:\Users\master\source\repos\capturar letras y devolver vocal\capturar letras y devolver vocal\bin\Debug\net6.0\capturar letras y devolver vocal.deps.json
+C:\Users\master\source\repos\capturar letras y devolver vocal\capturar letras y devolver vocal\bin\Debug\net6.0\capturar letras y devolver vocal.runtimeconfig.json
+C:\Users\master\source\repos\capturar letras y devolver vocal\capturar letras y devolver vocal\bin\Debug\net6.0\capturar letras y devolver vocal.dll
+C:\Users\master\source\repos\capturar letras y devolver vocal\capturar letras y devolver vocal\bin\Debug\net6.0\capturar letras y devolver vocal.pdb
+C:\Users\master\source\repos\capturar letras y devolver vocal\capturar letras y devolver vocal\obj\Debug\net6.0\capturar letras y devolver vocal.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\capturar letras y devolver vocal\capturar letras y devolver vocal\obj\Debug\net6.0\capturar letras y devolver vocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\source\repos\capturar letras y devolver vocal\capturar letras y devolver vocal\obj\Debug\net6.0\capturar letras y devolver vocal.AssemblyInfoInputs.cache
+C:\Users\master\source\repos\capturar letras y devolver vocal\capturar letras y devolver vocal\obj\Debug\net6.0\capturar letras y devolver vocal.AssemblyInfo.cs
+C:\Users\master\source\repos\capturar letras y devolver vocal\capturar letras y devolver vocal\obj\Debug\net6.0\capturar letras y devolver vocal.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\capturar letras y devolver vocal\capturar letras y devolver vocal\obj\Debug\net6.0\capturar letras y devolver vocal.dll
+C:\Users\master\source\repos\capturar letras y devolver vocal\capturar letras y devolver vocal\obj\Debug\net6.0\refint\capturar letras y devolver vocal.dll
+C:\Users\master\source\repos\capturar letras y devolver vocal\capturar letras y devolver vocal\obj\Debug\net6.0\capturar letras y devolver vocal.pdb
+C:\Users\master\source\repos\capturar letras y devolver vocal\capturar letras y devolver vocal\obj\Debug\net6.0\capturar letras y devolver vocal.genruntimeconfig.cache
+C:\Users\master\source\repos\capturar letras y devolver vocal\capturar letras y devolver vocal\obj\Debug\net6.0\ref\capturar letras y devolver vocal.dll
